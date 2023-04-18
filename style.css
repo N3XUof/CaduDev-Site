@@ -19,10 +19,11 @@ body {
 
 .banner video {
     position: fixed;
-    top: 1;
+    top: 0%;
     left: 0;
     object-fit: cover;
     width: 100%;
+    height: 100%;
 }
 
 .banner .começo {
@@ -57,8 +58,8 @@ body {
 }
 
 .banner .img3 img {
-    height: 70px;
-    width: 68.5px;
+    height: 50px;
+    width: 110px;
     padding: 0;
     margin: 0;
 }
